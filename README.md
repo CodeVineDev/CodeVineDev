@@ -1,6 +1,6 @@
 ![MasterHead](https://i.postimg.cc/1Xcf668p/Redditech-IT-Networks.png)
 <h1 align="center">Hi 👋, I'm Chukwudolue Divine</h1>
-<h3 align="center">I'm a creative Front-End Web Developer passionate about crafting impressive websites and online experiences. My strength is transforming designs into fully operational websites and digital content, leveraging my development skills to enrich and personalize their functionalities. My aim is to design visually captivating and user-friendly online platforms that offer smooth navigation. During my free time, I take pleasure in reading light novels and cherishing moments with my loved ones.</h3>
+<p align="center">I'm a creative Front-End Web Developer passionate about crafting impressive websites and online experiences. My strength is transforming designs into fully operational websites and digital content, leveraging my development skills to enrich and personalize their functionalities. My aim is to design visually captivating and user-friendly online platforms that offer smooth navigation. During my free time, I take pleasure in reading light novels and cherishing moments with my loved ones.</p>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.54c9af226721e95539a5cd9592d635bb?rik=4jwM6Z8L3wdIvw&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codevinedev&label=Profile%20views&color=0e75b6&style=flat" alt="codevinedev" /> </p>
