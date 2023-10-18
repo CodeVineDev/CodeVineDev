@@ -5,12 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codevinedev&label=Profile%20views&color=0e75b6&style=flat" alt="codevinedev" /> </p>
 
-- 🔭 I’m currently working on **portfolio(CODEVINE..)**
+- 🔭 I’m currently working on [portfolio(CODEVINE..)](https://chukwudolue.com.ng/)
 
 - 🌱 I’m currently learning **sass**
 
 - 🤝 I’m looking for help with **Getting a remote job**
-
+  
+- 👨‍💻 All of my projects are available at [https://chukwudolue.com.ng/](https://chukwudolue.com.ng/)
+   
 - 💬 Ask me about **front end development**
 
 - 📫 How to reach me **codevine2023@gmail.com**
