@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **codevine2023@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FGeyMzSmIJj_VnoPnEcqJINUI-g9YxEdJhDKrO_wO-E/view?usp=share_link](https://drive.google.com/file/d/1FGeyMzSmIJj_VnoPnEcqJINUI-g9YxEdJhDKrO_wO-E/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FGeyMzSmIJj_VnoPnEcqJINUI-g9YxEdJhDKrO_wO-E/view?usp=share_link](https://www.dropbox.com/scl/fi/030um7ue3t73qcqwj0ck8/EN-CV-CODEVINE-1.docx?rlkey=ukqfltyxxod42w93e7ow6mu3n&dl=0)
 
 - ⚡ Fun fact **I'm a passionate and driven individual who has an insatiable appetite for learning. Whether picking up a new programming language or diving into the latest web development trends, I thrive on the challenge of mastering new skills quickly. My focus and determination drive my journey as a Front-End Web Developer, constantly pushing the boundaries of what's possible in the digital world.**
 
