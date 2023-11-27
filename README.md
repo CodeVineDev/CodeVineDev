@@ -1,4 +1,4 @@
-![MasterHead](https://i.postimg.cc/1Xcf668p/Redditech-IT-Networks.png)
+![MasterHead](https://i.postimg.cc/tJN3gdvG/2.png)
 <h1 align="center">Hi 👋, I'm Chukwudolue Divine</h1>
 <p align="center">I'm a creative Front-End Web Developer passionate about crafting impressive websites and online experiences. My strength is transforming designs into fully operational websites and digital content, leveraging my development skills to enrich and personalize their functionalities. My aim is to design visually captivating and user-friendly online platforms that offer smooth navigation. During my free time, I take pleasure in reading light novels and cherishing moments with my loved ones.</p>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.54c9af226721e95539a5cd9592d635bb?rik=4jwM6Z8L3wdIvw&pid=ImgRaw&r=0">
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **codevine2023@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FGeyMzSmIJj_VnoPnEcqJINUI-g9YxEdJhDKrO_wO-E/view?usp=share_link](https://www.dropbox.com/scl/fi/030um7ue3t73qcqwj0ck8/EN-CV-CODEVINE-1.docx?rlkey=ukqfltyxxod42w93e7ow6mu3n&dl=0)
+- 📄 Know about my experiences(https://www.dropbox.com/scl/fi/030um7ue3t73qcqwj0ck8/EN-CV-CODEVINE-1.docx?rlkey=ukqfltyxxod42w93e7ow6mu3n&dl=0)
 
 - ⚡ Fun fact **I'm a passionate and driven individual who has an insatiable appetite for learning. Whether picking up a new programming language or diving into the latest web development trends, I thrive on the challenge of mastering new skills quickly. My focus and determination drive my journey as a Front-End Web Developer, constantly pushing the boundaries of what's possible in the digital world.**
 
