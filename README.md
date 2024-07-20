@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://codepen.io/chukwudolue-divine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chukwudolue-divine" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/divine.c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divine.c" height="30" width="40" /><b>LinkedIn</b></a> 
+<a href="https://linkedin.com/in/divine.c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divine.c" height="30" width="40" /><p>LinkedIn</p></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,6 +29,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codevinedev&" alt="codevinedev" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codevinedev&show_icons=true&locale=en" alt="codevinedev" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codevinedev&show_icons=true&locale=en&layout=compact" alt="codevinedev" /></p>
-
+<br>
 <p align="left"> <img width="100px" height="20px" src="https://komarev.com/ghpvc/?username=codevinedev&label=Profile%20views&color=0e75b6&style=flat" alt="codevinedev" /> </p>
 
