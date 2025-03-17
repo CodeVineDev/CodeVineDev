@@ -1,15 +1,16 @@
-![MasterHead](https://i.postimg.cc/tJN3gdvG/2.png)
+s![MasterHead](https://i.postimg.cc/tJN3gdvG/2.png)
 <h1 align="center">Hi 👋, I'm Chukwudolue Divine</h1>
 <p align="center">I'm a creative Front-End Web Developer passionate about crafting impressive websites and online experiences. My strength is transforming designs into fully operational websites and digital content, leveraging my development skills to enrich and personalize their functionalities. My aim is to design visually captivating and user-friendly online platforms that offer smooth navigation. During my free time, I take pleasure in reading light novels and cherishing moments with my loved ones.</p>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.54c9af226721e95539a5cd9592d635bb?rik=4jwM6Z8L3wdIvw&pid=ImgRaw&r=0">
+<button>[**My Resume**](https://drive.google.com/file/d/1FGeyMzSmIJj_VnoPnEcqJINUI-g9YxEdJhDKrO_wO-E/view)</button>
 
-- 🔭 I’m currently working on [Alister Bank](https://Alisterbank.vercel.app/)
+- 🔭 
 
 - 🌱 I’m currently learning **SASS**
 
 - 🤝 I’m looking for help with **Getting a remote job (Worldwide)**
   
-- 👨‍💻 All of my projects are available at [CODEVINE](https://codevine.vercel.app/)
+- 👨‍💻 All of my projects are available at [Codevine](https://codevine.vercel.app/)
    
 - 💬 Ask me about **Front end development**
 
